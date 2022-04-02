@@ -1,0 +1,29 @@
+body {
+  /*background-color: pink;	*/
+}
+
+.node {
+    width: 300px;
+	height: 150px;
+    background-color: grey;
+}
+
+.nodeName {
+	
+}
+
+.nodeDescription {
+	
+}
+
+.nodeAdd {
+	width: 15px;
+	height: 15px;
+	background-color: red;
+}
+
+.nodeDelete {
+	width: 15px;
+	height: 15px;
+	background-color: black;
+}

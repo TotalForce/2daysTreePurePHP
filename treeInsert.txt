@@ -1,0 +1,11 @@
+insert into tree (isroot, name, description, parent, children)
+values 
+      (1, 'Bob', 'Main root', null, null),        
+      (0, 'Jack', 'asdasdasdasdasdt', null, null),
+      (0, 'Hala', 'dfjgpdfgjmopdsfjg', null, null),
+	  (0, 'Hola', 'afdgbdfgsdf', null, null),
+	  (0, 'Bubbde', '', null, null),
+	  (0, 'IslandBob', 'hahahahbo', null, null)
+	  
+	  
+--how to create parent/children withotu knowing indexes?
